@@ -3,7 +3,7 @@ package com.ecej.esmart.platform.config;
 /**
  * 描述: Twitter的分布式自增ID雪花算法snowflake (Java版)
  *
- * @author yanpenglei
+ * @author hekuangsheng
  * @create 2018-03-13 12:37
  **/
 public class SnowFlake {
